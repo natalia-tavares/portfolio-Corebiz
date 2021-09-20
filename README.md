@@ -1,4 +1,4 @@
-# Desafio 3 - Go Beyound 
+# Desafio 3 - Go Beyond 
 
 Portfolio desenvolvido em React 
 
